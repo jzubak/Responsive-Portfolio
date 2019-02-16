@@ -188,19 +188,18 @@ footer {
     .img1 {
         height: 50%;
         width: 50%;
+        max-width:300px
     }
     .holder{
         height: 50%;
         width: 50%;
-}
-    /* .td1 {
-        height: 100%;
-        width: 100%;
     }
-    .td2 {
-        height: 100%;
-        width: 100%;
-    } */
+    .img2 {
+        height: 50%;
+        width: 50%;
+        max-width:200px
+}
+
 }
 
 @media only screen and (min-device-width : 768px) {
@@ -210,19 +209,17 @@ footer {
     .img1 {
         height: 50%;
         width: 50%;
+        max-width:300px
     }
     .holder{
         height: 50%;
         width: 50%;
 }
-    /* .td1 {
-        height: 100%;
-        width: 100%;
-    }
-    .td2 {
-        height: 100%;
-        width: 100%;
-    } */
+    .img2 {
+        height: 50%;
+        width: 50%;
+        max-width:200px
+}
 }
 
 @media only screen and (min-device-width : 640px){
@@ -232,17 +229,15 @@ footer {
     .img1 {
             height: 50%;
             width: 50%;
+            max-width:300px
     }
     .holder{
         height: 50%;
         width: 50%;
 }
-    /* .td1 {
-        height: 100%;
-        width: 100%;
-    }
-    .td2 {
-        height: 100%;
-        width: 100%;
-    } */
+    .img2{
+        height: 50%;
+        width: 50%;
+        max-width:200px
+}
 }
