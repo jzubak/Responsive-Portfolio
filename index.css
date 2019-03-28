@@ -64,7 +64,7 @@ h1 {
     padding-top: 3%;
     }
 
-a:link, a:visited{
+.a:link, .a:visited{
     width: 120px;
     padding: 0;
     margin: 0;
@@ -72,7 +72,7 @@ a:link, a:visited{
     color: grey;
     text-decoration: none;
 }
-a:hover{
+.a:hover{
     width: 120px;
     padding: 0;
     margin: 0;
